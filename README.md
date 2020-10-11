@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Meer Estiyak</h1>
-<h3 align="left">A passionate frontend developer from small beautiful Bangladesh</h3>
+<h1 align="left">Hey 👋, This is Meer Estiyak</h1>
+<h3 align="left">A freelance frontend developer</h3>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
