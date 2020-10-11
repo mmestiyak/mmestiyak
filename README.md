@@ -8,9 +8,9 @@
 </p>
 
 <h3 align="left">I Specialize in</h3>
-<h2 align="left"> Html </h2>
-<h2 align="left"> CSS </h2>
-<h2 align="left"> Sass </h2>
-<h2 align="left"> Bootstrap </h2>
-<h2 align="left"> javaScript </h2>
-<h2 align="left"> React JS </h2>
+<h6 align="left"> Html </h6>
+<h6 align="left"> CSS </h6>
+<h6 align="left"> Sass </h6>
+<h6 align="left"> Bootstrap </h6>
+<h6 align="left"> javaScript </h6>
+<h6 align="left"> React JS </h6>
